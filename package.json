@@ -8,7 +8,7 @@
   "license": "ISC",
   "private": false,
   "scripts": {
-    "start": "webpack --mode=development"
+    "start": "webpack --config webpack.config.js"
   },
   "devDependencies": {
     "webpack": "^4.30.0",
